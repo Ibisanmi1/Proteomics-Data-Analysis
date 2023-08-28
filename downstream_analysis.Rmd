@@ -1,6 +1,5 @@
 ---
-title: "Hands-on Downstream Analysis of Protein Level Data"
-output: github_document
+title: "Downstream Analysis of Protein Level Data"
 ---
 
 ## Notebook Setup
